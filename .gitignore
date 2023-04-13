@@ -1,0 +1,8 @@
+build/
+file/
+CMakeFiles/
+.vscode
+output.txt
+part1
+part2
+part3
