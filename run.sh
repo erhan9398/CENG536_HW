@@ -30,5 +30,6 @@ if [ ! -d file ]; then
     mkdir file
 fi
 
-cmake -DCMAKE_ARGS=$arg1 -Bbuild
-make -j$(nproc) -C build/
+cd build
+cmake .. -DCMAKE_ARGS=$arg1 
+make -j$(nproc) 
