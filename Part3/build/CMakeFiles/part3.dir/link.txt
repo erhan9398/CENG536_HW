@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/part3.dir/main.c.o  -o ../part3 -lpthread 

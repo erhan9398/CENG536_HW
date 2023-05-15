@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/erhan/Desktop/CENG536_AdvancedUnix/CENG536_HW 2/Part1/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+pthread.h
+-
+

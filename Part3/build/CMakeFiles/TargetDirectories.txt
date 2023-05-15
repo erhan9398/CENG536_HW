@@ -1,0 +1,3 @@
+/mnt/c/Users/erhan/Desktop/CENG536_AdvancedUnix/CENG536_HW 2/Part3/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/erhan/Desktop/CENG536_AdvancedUnix/CENG536_HW 2/Part3/build/CMakeFiles/part3.dir
+/mnt/c/Users/erhan/Desktop/CENG536_AdvancedUnix/CENG536_HW 2/Part3/build/CMakeFiles/edit_cache.dir
